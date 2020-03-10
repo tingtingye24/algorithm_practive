@@ -2,6 +2,8 @@
 // Level: Medium from leetcode.com
 
 
+// didn't finish couldn't think of the relationship for each box.
+
 
 function isValidSudoku(board){
     
